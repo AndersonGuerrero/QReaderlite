@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "251502943042",
+    "firebase_url": "https://qreaderlite-72ec0.firebaseio.com",
+    "project_id": "qreaderlite-72ec0",
+    "storage_bucket": "qreaderlite-72ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251502943042:android:ef9abf745cbf5d60",
+        "android_client_info": {
+          "package_name": "com.momkiki.qreaderlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251502943042-jk8q0dfatpenfh9jp1kjnc2vhgqf6toa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwE952agOYdGY3yNVAd6zavfiiqMmqdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251502943042-jk8q0dfatpenfh9jp1kjnc2vhgqf6toa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5071583126311655~8463427429"
+    }
+  ],
+  "configuration_version": "1"
+}
